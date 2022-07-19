@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>map</name>
+  <version>0.0.0</version>
+  <description>
+  	Package to store shared files associated with map used in various other packages.
+  </description>
+
+  <maintainer email="todo@todo.com">todo</maintainer>
+  <license>MIT</license>
+  <author>todo</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
+
